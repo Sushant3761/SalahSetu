@@ -1,0 +1,11 @@
+{
+  "total_test_queries": 8,
+  "successful_queries": 8,
+  "queries_with_sources": 7,
+  "unsupported_query_handled": true,
+  "missing_citations": 0,
+  "invalid_citations": 0,
+  "hallucination_guard_triggered": true,
+  "sources_unmodified": true,
+  "validation_passed": true
+}

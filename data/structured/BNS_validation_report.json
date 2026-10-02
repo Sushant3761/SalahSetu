@@ -1,0 +1,14 @@
+{
+  "dataset_name": "BNS Structured Legal Dataset",
+  "act_name": "The Bharatiya Nyaya Sanhita, 2023",
+  "validation_timestamp": "2026-09-30T16:39:11.538971",
+  "total_sections": 358,
+  "first_section": "1",
+  "last_section": "358",
+  "missing_sections": [],
+  "duplicate_sections": [],
+  "empty_text_sections": [],
+  "missing_page_sections": [],
+  "uncertain_title_sections": [],
+  "validation_passed": true
+}

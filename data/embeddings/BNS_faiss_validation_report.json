@@ -1,0 +1,12 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "total_vectors_indexed": 387,
+  "index_dimension": 384,
+  "faiss_index_loadable": true,
+  "metadata_mapping_valid": true,
+  "ordering_corresponds": true,
+  "duplicate_chunk_ids": [],
+  "query_dimension": 384,
+  "test_query_passed": true,
+  "validation_passed": true
+}

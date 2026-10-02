@@ -1,0 +1,12 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "total_chunks": 387,
+  "total_embeddings": 387,
+  "embedding_dimension": 384,
+  "metadata_records": 387,
+  "duplicate_chunk_ids": [],
+  "missing_metadata": [],
+  "invalid_vectors": 0,
+  "ordering_valid": true,
+  "validation_passed": true
+}

@@ -1,0 +1,11 @@
+{
+  "faiss_index_unchanged": true,
+  "source_files_unchanged": true,
+  "all_chunk_ids_exist": true,
+  "all_section_numbers_exist": true,
+  "scores_numeric_and_finite": true,
+  "ranking_deterministic": true,
+  "required_metadata_present": true,
+  "test_queries_executed": true,
+  "validation_passed": true
+}
